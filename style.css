@@ -11,7 +11,7 @@ body {
 
 .musicBox {
   /* Styling */
-  background-color: white;
+  background-color: black;
   margin: 0;
   padding: 20px;
   border-radius: 20px;
@@ -51,7 +51,8 @@ body {
 }
 
 .outerContainer {
-  height: calc(100vh - 100px);
+  height: 90vh;
+  max-height: 800px;
   width: 70%;
   margin: auto;
 
